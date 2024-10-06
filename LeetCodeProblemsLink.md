@@ -1,4 +1,4 @@
-### LeetCodeSolutions ProblemLink
+### LEETCODE PROBLEMS LINK
 
 
 #### Problem 1: [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
