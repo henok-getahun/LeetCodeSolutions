@@ -2,7 +2,7 @@
 
 
 #### Problem 1: [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
-- **Solution**: [Solution_1](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_1(9.Palindrome_Number).py)
+- **Solution**: [Solution_1](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_1(9.%20Palindrome_Number).py)
 
 #### Problem 2: [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)
 - **Solution**: [Solution_2](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_2(766.%20Toeplitz%20Matrix).py)
