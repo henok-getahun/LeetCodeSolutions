@@ -22,6 +22,12 @@
 #### Problem 7: [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 - **Solution**: [Solution_7](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_7(1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping).py)
 
+#### Problem 8: [1678. Goal Parser Interpretaion](https://leetcode.com/problems/goal-parser-interpretation/)
+- **Solution**: [Solution_8](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_8(1678.%20Goal%20Parser%20Interpretation).py)
+
+#### Problem 9: [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)
+- **Solution**: [Solution_9](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_9(2506.%20Count%20Pairs%20Of%20Similar%20Strings).py)
+
 
 
 
