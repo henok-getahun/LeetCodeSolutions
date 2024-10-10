@@ -28,6 +28,19 @@
 #### Problem 9: [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)
 - **Solution**: [Solution_9](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_9(2506.%20Count%20Pairs%20Of%20Similar%20Strings).py)
 
+#### Problem 10: [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)
+- **Solution**: [Solution_10](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/Solution_10(2460.%20Apply%20Operations%20to%20an%20Array).py)
+
+#### Problem 11: [1002. Find Common characters](https://leetcode.com/problems/find-common-characters/)
+- **Solution**: [Solution_11](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_11(1002.%20Find%20Common%20characters).py)
+
+#### Problem 12: [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+- **Solution**: [Solution_12](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_9(2506.%20Count%20Pairs%20Of%20Similar%20Strings).py)
+
+#### Problem 13: [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
+- **Solution**: [Solution_13](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_9(2506.%20Count%20Pairs%20Of%20Similar%20Strings).py)
+
+
 
 
 
