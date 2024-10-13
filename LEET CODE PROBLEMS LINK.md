@@ -35,7 +35,7 @@
 - **Solution**: [Solution_11](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_11(1002.%20Find%20Common%20characters).py)
 
 #### Problem 12: [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
-- **Solution**: [Solution_12](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_12(867.%20Transpose%20Matrix).py))
+- **Solution**: [Solution_12](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_12(867.%20Transpose%20Matrix).py)
 
 #### Problem 13: [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 - **Solution**: [Solution_13](https://github.com/henok-getahun/LeetCodeSolutions/blob/main/solution_9(2506.%20Count%20Pairs%20Of%20Similar%20Strings).py)
